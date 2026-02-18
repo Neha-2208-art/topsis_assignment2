@@ -1,0 +1,6 @@
+Model,Parameters (M),Inference Time (s),Accuracy,F1 Score,TOPSIS Score,Rank
+albert-base-v2,11.683584,100,89.6,88.7,0.8315213269066795,1.0
+distilbert-base-uncased,66.36288,80,88.2,87.9,0.6160787080510078,2.0
+google/electra-base-discriminator,108.891648,95,91.3,90.4,0.356388288813962,3.0
+bert-base-uncased,109.48224,120,90.5,89.8,0.20748666533773988,4.0
+roberta-base,124.645632,140,92.4,91.7,0.08883353911999957,5.0
